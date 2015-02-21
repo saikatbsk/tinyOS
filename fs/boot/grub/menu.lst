@@ -1,0 +1,5 @@
+default 0
+timeout 30
+
+title OS-Project test kernel
+kernel /boot/kernel.bin
